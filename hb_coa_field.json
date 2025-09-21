@@ -1,0 +1,50 @@
+{
+  "id": "str:field:hb_new:V_F_HB_NEW:COA_CODE",
+  "label": "National - Regional - LA - OAs",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:COA_CODE",
+  "type": "FIELD",
+  "children": [
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_COA_TO_LSOA",
+      "label": "Census Output Area",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_COA_TO_LSOA",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_LSOA_TO_MSOA",
+      "label": "Lower Layer Super Output Areas",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_LSOA_TO_MSOA",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_MSOA_TO_LA",
+      "label": "Middle Layer Super Output Areas",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_MSOA_TO_LA",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_LA_TO_REGION",
+      "label": "Local Authority",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_LA_TO_REGION",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY",
+      "label": "Region",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_COUNTRY_TO_GB",
+      "label": "Country",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_COUNTRY_TO_GB",
+      "type": "VALUESET"
+    },
+    {
+      "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_GB",
+      "label": "Great Britain",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_GB",
+      "type": "VALUESET"
+    }
+  ]
+}

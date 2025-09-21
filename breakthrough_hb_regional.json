@@ -1,0 +1,161 @@
+{
+  "query": {
+    "database": "str:database:hb_new",
+    "measures": [
+      "str:count:hb_new:V_F_HB_NEW"
+    ],
+    "recodes": {
+      "str:field:hb_new:V_F_HB_NEW:COA_CODE": {
+        "map": [
+          [
+            "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000001"
+          ],
+          [
+            "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000007"
+          ]
+        ],
+        "total": true
+      },
+      "str:field:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME": {
+        "map": [
+          [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202410"
+          ],
+          [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202411"
+          ],
+          [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202412"
+          ]
+        ],
+        "total": false
+      }
+    },
+    "dimensions": [
+      [
+        "str:field:hb_new:V_F_HB_NEW:COA_CODE"
+      ],
+      [
+        "str:field:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME"
+      ]
+    ]
+  },
+  "database": {
+    "id": "hb_new",
+    "uri": "str:database:hb_new",
+    "label": "Housing Benefit - Data from April 2018",
+    "annotationKeys": [
+      "XXI"
+    ]
+  },
+  "measures": [
+    {
+      "uri": "str:count:hb_new:V_F_HB_NEW",
+      "label": "Housing Benefit Claimants",
+      "measure": "str:count:hb_new:V_F_HB_NEW",
+      "function": "COUNT"
+    }
+  ],
+  "fields": [
+    {
+      "uri": "str:field:hb_new:V_F_HB_NEW:COA_CODE",
+      "label": "National - Regional - LA - OAs",
+      "annotationKeys": [
+        "I",
+        "II",
+        "VII",
+        "XVIII",
+        "XXIII"
+      ],
+      "items": [
+        {
+          "type": "RecodeItem",
+          "uris": [
+            "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000001"
+          ],
+          "labels": [
+            "North East"
+          ]
+        },
+        {
+          "type": "RecodeItem",
+          "uris": [
+            "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000007"
+          ],
+          "labels": [
+            "London"
+          ]
+        },
+        {
+          "type": "Total",
+          "labels": [
+            "Total"
+          ]
+        }
+      ]
+    },
+    {
+      "uri": "str:field:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME",
+      "label": "Month",
+      "items": [
+        {
+          "type": "RecodeItem",
+          "uris": [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202410"
+          ],
+          "labels": [
+            "202410 (Oct-24)"
+          ]
+        },
+        {
+          "type": "RecodeItem",
+          "uris": [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202411"
+          ],
+          "labels": [
+            "202411 (Nov-24)"
+          ]
+        },
+        {
+          "type": "RecodeItem",
+          "uris": [
+            "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202412"
+          ],
+          "labels": [
+            "202412 (Dec-24)"
+          ]
+        }
+      ]
+    }
+  ],
+  "cubes": {
+    "str:count:hb_new:V_F_HB_NEW": {
+      "values": [
+        [
+          104951.0,
+          102501.0,
+          100991.0
+        ],
+        [
+          345450.0,
+          333576.0,
+          329053.0
+        ],
+        [
+          450397.0,
+          436076.0,
+          430044.0
+        ]
+      ],
+      "precision": 0
+    }
+  },
+  "annotationMap": {
+    "XXI": "\"..\" denotes a nil or negligible number of claimants or award amount based on a nil or negligible number of claimants.",
+    "I": "Between December 2020 to July 2021 there was an interruption in the supply of data from Hackney Borough Council affecting Housing Benefit statistics. HB statistics that cover Hackney over this period were derived from earlier data. Recovery work was completed in September 2022.",
+    "II": "Between December 2021 and July 2023 there was an interruption in the supply of data from Gloucester City Council affecting Housing Benefit statistics. HB statistics that cover Gloucester City Council over this period were derived from earlier data. Gloucester City Council have now resumed the supply of Housing Benefit data to DWP. Data from August 2023 is based on their most recent return.",
+    "VII": "Based on the claimant's place of residence. ",
+    "XVIII": "Individual Local Authorities may have their monthly figures substituted with that of the previous month, if data is missing or identified as of insufficient quality to publish.",
+    "XXIII": "From October 2023 until December 2024, there was an interruption in the supply of HB data from Na h-Eileanan Siar (Western Isles) Council affecting Housing Benefit statistics. HB statistics that cover Na h-Eileanan Siar over this period were derived from earlier data. The local authority resumed their data supply in January 2025, and statistics from this point are based on their most recent return."
+  }
+}

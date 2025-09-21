@@ -1,0 +1,524 @@
+{
+  "id": "str:valueset:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE",
+  "label": "Month",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE",
+  "type": "VALUESET",
+  "children": [
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201804",
+      "label": "201804 (Apr-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201804",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201805",
+      "label": "201805 (May-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201805",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201806",
+      "label": "201806 (Jun-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201806",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201807",
+      "label": "201807 (Jul-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201807",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201808",
+      "label": "201808 (Aug-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201808",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201809",
+      "label": "201809 (Sep-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201809",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201810",
+      "label": "201810 (Oct-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201810",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201811",
+      "label": "201811 (Nov-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201811",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201812",
+      "label": "201812 (Dec-18)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201812",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201901",
+      "label": "201901 (Jan-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201901",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201902",
+      "label": "201902 (Feb-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201902",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201903",
+      "label": "201903 (Mar-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201903",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201904",
+      "label": "201904 (Apr-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201904",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201905",
+      "label": "201905 (May-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201905",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201906",
+      "label": "201906 (Jun-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201906",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201907",
+      "label": "201907 (Jul-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201907",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201908",
+      "label": "201908 (Aug-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201908",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201909",
+      "label": "201909 (Sep-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201909",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201910",
+      "label": "201910 (Oct-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201910",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201911",
+      "label": "201911 (Nov-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201911",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201912",
+      "label": "201912 (Dec-19)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:201912",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202001",
+      "label": "202001 (Jan-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202001",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202002",
+      "label": "202002 (Feb-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202002",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202003",
+      "label": "202003 (Mar-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202003",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202004",
+      "label": "202004 (Apr-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202004",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202005",
+      "label": "202005 (May-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202005",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202006",
+      "label": "202006 (Jun-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202006",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202007",
+      "label": "202007 (Jul-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202007",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202008",
+      "label": "202008 (Aug-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202008",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202009",
+      "label": "202009 (Sep-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202009",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202010",
+      "label": "202010 (Oct-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202010",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202011",
+      "label": "202011 (Nov-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202011",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202012",
+      "label": "202012 (Dec-20)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202012",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202101",
+      "label": "202101 (Jan-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202101",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202102",
+      "label": "202102 (Feb-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202102",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202103",
+      "label": "202103 (Mar-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202103",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202104",
+      "label": "202104 (Apr-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202104",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202105",
+      "label": "202105 (May-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202105",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202106",
+      "label": "202106 (Jun-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202106",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202107",
+      "label": "202107 (Jul-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202107",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202108",
+      "label": "202108 (Aug-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202108",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202109",
+      "label": "202109 (Sep-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202109",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202110",
+      "label": "202110 (Oct-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202110",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202111",
+      "label": "202111 (Nov-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202111",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202112",
+      "label": "202112 (Dec-21)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202112",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202201",
+      "label": "202201 (Jan-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202201",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202202",
+      "label": "202202 (Feb-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202202",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202203",
+      "label": "202203 (Mar-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202203",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202204",
+      "label": "202204 (Apr-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202204",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202205",
+      "label": "202205 (May-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202205",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202206",
+      "label": "202206 (Jun-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202206",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202207",
+      "label": "202207 (Jul-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202207",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202208",
+      "label": "202208 (Aug-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202208",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202209",
+      "label": "202209 (Sep-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202209",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202210",
+      "label": "202210 (Oct-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202210",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202211",
+      "label": "202211 (Nov-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202211",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202212",
+      "label": "202212 (Dec-22)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202212",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202301",
+      "label": "202301 (Jan-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202301",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202302",
+      "label": "202302 (Feb-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202302",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202303",
+      "label": "202303 (Mar-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202303",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202304",
+      "label": "202304 (Apr-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202304",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202305",
+      "label": "202305 (May-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202305",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202306",
+      "label": "202306 (Jun-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202306",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202307",
+      "label": "202307 (Jul-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202307",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202308",
+      "label": "202308 (Aug-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202308",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202309",
+      "label": "202309 (Sep-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202309",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202310",
+      "label": "202310 (Oct-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202310",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202311",
+      "label": "202311 (Nov-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202311",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202312",
+      "label": "202312 (Dec-23)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202312",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202401",
+      "label": "202401 (Jan-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202401",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202402",
+      "label": "202402 (Feb-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202402",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202403",
+      "label": "202403 (Mar-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202403",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202404",
+      "label": "202404 (Apr-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202404",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202405",
+      "label": "202405 (May-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202405",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202406",
+      "label": "202406 (Jun-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202406",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202407",
+      "label": "202407 (Jul-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202407",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202408",
+      "label": "202408 (Aug-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202408",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202409",
+      "label": "202409 (Sep-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202409",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202410",
+      "label": "202410 (Oct-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202410",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202411",
+      "label": "202411 (Nov-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202411",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202412",
+      "label": "202412 (Dec-24)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202412",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202501",
+      "label": "202501 (Jan-25)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202501",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202502",
+      "label": "202502 (Feb-25)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202502",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202503",
+      "label": "202503 (Mar-25)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202503",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202504",
+      "label": "202504 (Apr-25)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202504",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202505",
+      "label": "202505 (May-25)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE:202505",
+      "type": "VALUE"
+    }
+  ]
+}

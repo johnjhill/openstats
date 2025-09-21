@@ -1,0 +1,86 @@
+{
+  "id": "str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY",
+  "label": "Region",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY",
+  "type": "VALUESET",
+  "children": [
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000001",
+      "label": "North East",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000001",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000002",
+      "label": "North West",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000002",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000003",
+      "label": "Yorkshire and The Humber",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000003",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000004",
+      "label": "East Midlands",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000004",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000005",
+      "label": "West Midlands",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000005",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000006",
+      "label": "East of England",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000006",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000007",
+      "label": "London",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000007",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000008",
+      "label": "South East",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000008",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000009",
+      "label": "South West",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:E12000009",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:W92000004",
+      "label": "Wales",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:W92000004",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:S92000003",
+      "label": "Scotland",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:S92000003",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:XXZZZZZZZ",
+      "label": "Abroad",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:XXZZZZZZZ",
+      "type": "VALUE"
+    },
+    {
+      "id": "str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:ZZXXXXXXX",
+      "label": "Unknown",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:value:hb_new:V_F_HB_NEW:COA_CODE:V_C_MASTERGEOG11_REGION_TO_COUNTRY:ZZXXXXXXX",
+      "type": "VALUE"
+    }
+  ]
+}

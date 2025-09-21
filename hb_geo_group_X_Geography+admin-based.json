@@ -1,0 +1,14 @@
+{
+  "id": "str:group:hb_new:X_Geography+%28admin-based%29",
+  "label": "Geography (admin-based)",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:group:hb_new:X_Geography+%2528admin-based%2529",
+  "type": "GROUP",
+  "children": [
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:ADMIN_LA_CODE",
+      "label": "National - Regional - Admin LA",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:ADMIN_LA_CODE",
+      "type": "FIELD"
+    }
+  ]
+}

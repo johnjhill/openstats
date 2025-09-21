@@ -1,0 +1,56 @@
+{
+  "id": "str:group:hb_new:X_Geography+%28residence-based%29",
+  "label": "Geography (residence-based)",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:group:hb_new:X_Geography+%2528residence-based%2529",
+  "type": "GROUP",
+  "children": [
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:COA_CODE",
+      "label": "National - Regional - LA - OAs",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:COA_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:WARD_CODE",
+      "label": "National - Regional - LA - Ward",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:WARD_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:PCON24",
+      "label": "Westminster Parliamentary Constituency 2024",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:PCON24",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:PARLC_CODE",
+      "label": "Westminster Parliamentary Constituency 2010",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:PARLC_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:SPC_CODE",
+      "label": "Scottish Parliamentary Constituency",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:SPC_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:NUTS_CODE",
+      "label": "Eurostat NUTS Areas",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:NUTS_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:TTWA_CODE",
+      "label": "Travel to Work Areas (TTWAs)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:TTWA_CODE",
+      "type": "FIELD"
+    },
+    {
+      "id": "str:field:hb_new:V_F_HB_NEW:LAU1_CODE",
+      "label": "UK International Territorial Levels (ITLs)",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:V_F_HB_NEW:LAU1_CODE",
+      "type": "FIELD"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Geography_Code,Geography_Name,Time_Period,Value,Dataset,Measure,Benefit_Type,Date,Year,Month,Quarter
+E12000001,North East,202410 (Oct-24),104951.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E12000001,North East,202411 (Nov-24),102501.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E12000001,North East,202412 (Dec-24),100991.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E12000007,London,202410 (Oct-24),345450.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E12000007,London,202411 (Nov-24),333576.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E12000007,London,202412 (Dec-24),329053.0,housing_benefit_test,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4

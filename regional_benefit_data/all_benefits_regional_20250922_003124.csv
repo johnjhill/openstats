@@ -1,0 +1,121 @@
+Geography_Code,Geography_Name,Time_Period,Value,Dataset,Measure,Benefit_Type,Date,Year,Month,Quarter,Previous_Value,Growth_Rate
+E06000001,Hartlepool,202407 (Jul-24),4400.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000001,Hartlepool,202408 (Aug-24),4319.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,4400.0,-1.84
+E06000001,Hartlepool,202409 (Sep-24),4226.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,4319.0,-2.15
+E06000001,Hartlepool,202410 (Oct-24),4173.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,4226.0,-1.25
+E06000001,Hartlepool,202411 (Nov-24),4080.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,4173.0,-2.23
+E06000001,Hartlepool,202412 (Dec-24),4009.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,4080.0,-1.74
+E06000001,Hartlepool,June 2023,12379.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000001,Hartlepool,July 2023,12505.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,12379.0,1.02
+E06000001,Hartlepool,August 2023,12580.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,12505.0,0.6
+E06000001,Hartlepool,September 2023,12762.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,12580.0,1.45
+E06000001,Hartlepool,October 2023,12977.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,12762.0,1.68
+E06000001,Hartlepool,November 2023,13104.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,12977.0,0.98
+E06000002,Middlesbrough,202407 (Jul-24),6881.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000002,Middlesbrough,202408 (Aug-24),6677.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,6881.0,-2.96
+E06000002,Middlesbrough,202409 (Sep-24),6431.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,6677.0,-3.68
+E06000002,Middlesbrough,202410 (Oct-24),6288.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,6431.0,-2.22
+E06000002,Middlesbrough,202411 (Nov-24),6107.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,6288.0,-2.88
+E06000002,Middlesbrough,202412 (Dec-24),5995.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,6107.0,-1.83
+E06000002,Middlesbrough,June 2023,18856.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000002,Middlesbrough,July 2023,18955.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,18856.0,0.53
+E06000002,Middlesbrough,August 2023,19094.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,18955.0,0.73
+E06000002,Middlesbrough,September 2023,19336.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19094.0,1.27
+E06000002,Middlesbrough,October 2023,19739.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19336.0,2.08
+E06000002,Middlesbrough,November 2023,19930.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19739.0,0.97
+E06000003,Redcar and Cleveland,202407 (Jul-24),6035.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000003,Redcar and Cleveland,202408 (Aug-24),5890.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,6035.0,-2.4
+E06000003,Redcar and Cleveland,202409 (Sep-24),5719.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,5890.0,-2.9
+E06000003,Redcar and Cleveland,202410 (Oct-24),5602.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,5719.0,-2.05
+E06000003,Redcar and Cleveland,202411 (Nov-24),5433.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,5602.0,-3.02
+E06000003,Redcar and Cleveland,202412 (Dec-24),5371.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,5433.0,-1.14
+E06000003,Redcar and Cleveland,June 2023,13319.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000003,Redcar and Cleveland,July 2023,13467.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,13319.0,1.11
+E06000003,Redcar and Cleveland,August 2023,13625.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,13467.0,1.17
+E06000003,Redcar and Cleveland,September 2023,13893.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,13625.0,1.97
+E06000003,Redcar and Cleveland,October 2023,14287.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,13893.0,2.84
+E06000003,Redcar and Cleveland,November 2023,14506.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,14287.0,1.53
+E06000004,Stockton-on-Tees,202407 (Jul-24),6729.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000004,Stockton-on-Tees,202408 (Aug-24),6503.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,6729.0,-3.36
+E06000004,Stockton-on-Tees,202409 (Sep-24),6272.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,6503.0,-3.55
+E06000004,Stockton-on-Tees,202410 (Oct-24),6127.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,6272.0,-2.31
+E06000004,Stockton-on-Tees,202411 (Nov-24),5948.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,6127.0,-2.92
+E06000004,Stockton-on-Tees,202412 (Dec-24),5863.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,5948.0,-1.43
+E06000004,Stockton-on-Tees,June 2023,17601.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000004,Stockton-on-Tees,July 2023,17778.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17601.0,1.01
+E06000004,Stockton-on-Tees,August 2023,17956.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17778.0,1.0
+E06000004,Stockton-on-Tees,September 2023,18243.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17956.0,1.6
+E06000004,Stockton-on-Tees,October 2023,18626.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,18243.0,2.1
+E06000004,Stockton-on-Tees,November 2023,18897.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,18626.0,1.45
+E06000005,Darlington,202407 (Jul-24),3883.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000005,Darlington,202408 (Aug-24),3814.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,3883.0,-1.78
+E06000005,Darlington,202409 (Sep-24),3699.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,3814.0,-3.02
+E06000005,Darlington,202410 (Oct-24),3662.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,3699.0,-1.0
+E06000005,Darlington,202411 (Nov-24),3586.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,3662.0,-2.08
+E06000005,Darlington,202412 (Dec-24),3515.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,3586.0,-1.98
+E06000005,Darlington,June 2023,9906.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000005,Darlington,July 2023,9965.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,9906.0,0.6
+E06000005,Darlington,August 2023,10064.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,9965.0,0.99
+E06000005,Darlington,September 2023,10243.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,10064.0,1.78
+E06000005,Darlington,October 2023,10482.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,10243.0,2.33
+E06000005,Darlington,November 2023,10652.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,10482.0,1.62
+E06000047,County Durham,202407 (Jul-24),21785.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000047,County Durham,202408 (Aug-24),21313.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,21785.0,-2.17
+E06000047,County Durham,202409 (Sep-24),20733.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,21313.0,-2.72
+E06000047,County Durham,202410 (Oct-24),20357.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,20733.0,-1.81
+E06000047,County Durham,202411 (Nov-24),19943.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,20357.0,-2.03
+E06000047,County Durham,202412 (Dec-24),19667.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,19943.0,-1.38
+E06000047,County Durham,June 2023,47377.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000047,County Durham,July 2023,47863.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,47377.0,1.03
+E06000047,County Durham,August 2023,48461.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,47863.0,1.25
+E06000047,County Durham,September 2023,49454.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,48461.0,2.05
+E06000047,County Durham,October 2023,50667.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,49454.0,2.45
+E06000047,County Durham,November 2023,51431.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,50667.0,1.51
+E06000057,Northumberland,202407 (Jul-24),10614.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E06000057,Northumberland,202408 (Aug-24),10395.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,10614.0,-2.06
+E06000057,Northumberland,202409 (Sep-24),10207.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,10395.0,-1.81
+E06000057,Northumberland,202410 (Oct-24),10043.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,10207.0,-1.61
+E06000057,Northumberland,202411 (Nov-24),9851.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,10043.0,-1.91
+E06000057,Northumberland,202412 (Dec-24),9706.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,9851.0,-1.47
+E06000057,Northumberland,June 2023,22687.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E06000057,Northumberland,July 2023,22875.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,22687.0,0.83
+E06000057,Northumberland,August 2023,22990.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,22875.0,0.5
+E06000057,Northumberland,September 2023,23025.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,22990.0,0.15
+E06000057,Northumberland,October 2023,23252.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,23025.0,0.99
+E06000057,Northumberland,November 2023,23490.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,23252.0,1.02
+E08000021,Newcastle upon Tyne,202407 (Jul-24),12746.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E08000021,Newcastle upon Tyne,202408 (Aug-24),12447.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,12746.0,-2.35
+E08000021,Newcastle upon Tyne,202409 (Sep-24),12123.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,12447.0,-2.6
+E08000021,Newcastle upon Tyne,202410 (Oct-24),11958.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,12123.0,-1.36
+E08000021,Newcastle upon Tyne,202411 (Nov-24),11667.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,11958.0,-2.43
+E08000021,Newcastle upon Tyne,202412 (Dec-24),11547.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,11667.0,-1.03
+E08000021,Newcastle upon Tyne,June 2023,30822.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E08000021,Newcastle upon Tyne,July 2023,30940.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,30822.0,0.38
+E08000021,Newcastle upon Tyne,August 2023,30872.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,30940.0,-0.22
+E08000021,Newcastle upon Tyne,September 2023,30887.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,30872.0,0.05
+E08000021,Newcastle upon Tyne,October 2023,31042.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,30887.0,0.5
+E08000021,Newcastle upon Tyne,November 2023,31224.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,31042.0,0.59
+E08000022,North Tyneside,202407 (Jul-24),8087.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E08000022,North Tyneside,202408 (Aug-24),7971.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,8087.0,-1.43
+E08000022,North Tyneside,202409 (Sep-24),7771.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,7971.0,-2.51
+E08000022,North Tyneside,202410 (Oct-24),7654.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,7771.0,-1.51
+E08000022,North Tyneside,202411 (Nov-24),7495.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,7654.0,-2.08
+E08000022,North Tyneside,202412 (Dec-24),7430.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,7495.0,-0.87
+E08000022,North Tyneside,June 2023,16858.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E08000022,North Tyneside,July 2023,17010.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,16858.0,0.9
+E08000022,North Tyneside,August 2023,17084.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17010.0,0.44
+E08000022,North Tyneside,September 2023,17182.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17084.0,0.57
+E08000022,North Tyneside,October 2023,17324.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17182.0,0.83
+E08000022,North Tyneside,November 2023,17438.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,17324.0,0.66
+E08000037,Gateshead,202407 (Jul-24),9058.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024.0,7.0,3.0,,
+E08000037,Gateshead,202408 (Aug-24),8789.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024.0,8.0,3.0,9058.0,-2.97
+E08000037,Gateshead,202409 (Sep-24),8580.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024.0,9.0,3.0,8789.0,-2.38
+E08000037,Gateshead,202410 (Oct-24),8430.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024.0,10.0,4.0,8580.0,-1.75
+E08000037,Gateshead,202411 (Nov-24),8217.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024.0,11.0,4.0,8430.0,-2.53
+E08000037,Gateshead,202412 (Dec-24),8068.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024.0,12.0,4.0,8217.0,-1.81
+E08000037,Gateshead,June 2023,19307.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,,
+E08000037,Gateshead,July 2023,19391.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19307.0,0.44
+E08000037,Gateshead,August 2023,19499.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19391.0,0.56
+E08000037,Gateshead,September 2023,19537.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19499.0,0.19
+E08000037,Gateshead,October 2023,19657.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19537.0,0.61
+E08000037,Gateshead,November 2023,19726.0,uc_households_regional,str:count:UC_Households:V_F_UC_HOUSEHOLDS,Universal Credit,,,,,19657.0,0.35

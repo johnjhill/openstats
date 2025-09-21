@@ -1,0 +1,61 @@
+Geography_Code,Geography_Name,Time_Period,Value,Dataset,Measure,Benefit_Type,Date,Year,Month,Quarter
+E06000047,County Durham,202407 (Jul-24),21785.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000047,County Durham,202408 (Aug-24),21313.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000047,County Durham,202409 (Sep-24),20733.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000047,County Durham,202410 (Oct-24),20357.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000047,County Durham,202411 (Nov-24),19943.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000047,County Durham,202412 (Dec-24),19667.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000005,Darlington,202407 (Jul-24),3883.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000005,Darlington,202408 (Aug-24),3814.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000005,Darlington,202409 (Sep-24),3699.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000005,Darlington,202410 (Oct-24),3662.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000005,Darlington,202411 (Nov-24),3586.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000005,Darlington,202412 (Dec-24),3515.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000001,Hartlepool,202407 (Jul-24),4400.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000001,Hartlepool,202408 (Aug-24),4319.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000001,Hartlepool,202409 (Sep-24),4226.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000001,Hartlepool,202410 (Oct-24),4173.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000001,Hartlepool,202411 (Nov-24),4080.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000001,Hartlepool,202412 (Dec-24),4009.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000002,Middlesbrough,202407 (Jul-24),6881.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000002,Middlesbrough,202408 (Aug-24),6677.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000002,Middlesbrough,202409 (Sep-24),6431.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000002,Middlesbrough,202410 (Oct-24),6288.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000002,Middlesbrough,202411 (Nov-24),6107.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000002,Middlesbrough,202412 (Dec-24),5995.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000057,Northumberland,202407 (Jul-24),10614.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000057,Northumberland,202408 (Aug-24),10395.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000057,Northumberland,202409 (Sep-24),10207.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000057,Northumberland,202410 (Oct-24),10043.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000057,Northumberland,202411 (Nov-24),9851.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000057,Northumberland,202412 (Dec-24),9706.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000003,Redcar and Cleveland,202407 (Jul-24),6035.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000003,Redcar and Cleveland,202408 (Aug-24),5890.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000003,Redcar and Cleveland,202409 (Sep-24),5719.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000003,Redcar and Cleveland,202410 (Oct-24),5602.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000003,Redcar and Cleveland,202411 (Nov-24),5433.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000003,Redcar and Cleveland,202412 (Dec-24),5371.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E06000004,Stockton-on-Tees,202407 (Jul-24),6729.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E06000004,Stockton-on-Tees,202408 (Aug-24),6503.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E06000004,Stockton-on-Tees,202409 (Sep-24),6272.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E06000004,Stockton-on-Tees,202410 (Oct-24),6127.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E06000004,Stockton-on-Tees,202411 (Nov-24),5948.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E06000004,Stockton-on-Tees,202412 (Dec-24),5863.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E08000037,Gateshead,202407 (Jul-24),9058.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E08000037,Gateshead,202408 (Aug-24),8789.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E08000037,Gateshead,202409 (Sep-24),8580.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E08000037,Gateshead,202410 (Oct-24),8430.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E08000037,Gateshead,202411 (Nov-24),8217.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E08000037,Gateshead,202412 (Dec-24),8068.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E08000021,Newcastle upon Tyne,202407 (Jul-24),12746.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E08000021,Newcastle upon Tyne,202408 (Aug-24),12447.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E08000021,Newcastle upon Tyne,202409 (Sep-24),12123.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E08000021,Newcastle upon Tyne,202410 (Oct-24),11958.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E08000021,Newcastle upon Tyne,202411 (Nov-24),11667.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E08000021,Newcastle upon Tyne,202412 (Dec-24),11547.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4
+E08000022,North Tyneside,202407 (Jul-24),8087.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-07-01,2024,7,3
+E08000022,North Tyneside,202408 (Aug-24),7971.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-08-01,2024,8,3
+E08000022,North Tyneside,202409 (Sep-24),7771.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-09-01,2024,9,3
+E08000022,North Tyneside,202410 (Oct-24),7654.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-10-01,2024,10,4
+E08000022,North Tyneside,202411 (Nov-24),7495.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-11-01,2024,11,4
+E08000022,North Tyneside,202412 (Dec-24),7430.0,housing_benefit_regional,str:count:hb_new:V_F_HB_NEW,Housing Benefit,2024-12-01,2024,12,4

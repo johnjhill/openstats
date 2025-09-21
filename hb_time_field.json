@@ -1,0 +1,14 @@
+{
+  "id": "str:field:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME",
+  "label": "Month",
+  "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:field:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME",
+  "type": "FIELD",
+  "children": [
+    {
+      "id": "str:valueset:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE",
+      "label": "Month",
+      "location": "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/schema/str:valueset:hb_new:F_HB_NEW_DATE:NEW_DATE_NAME:C_HB_NEW_DATE",
+      "type": "VALUESET"
+    }
+  ]
+}

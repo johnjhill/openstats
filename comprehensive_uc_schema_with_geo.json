@@ -1,0 +1,247 @@
+{
+  "str:database:UC_Claims": {
+    "id": "str:database:UC_Claims",
+    "label": "Claims made to Universal Credit",
+    "measures": [
+      {
+        "id": "str:count:UC_Claims:V_F_UC_CLAIMS",
+        "label": "Claims made to Universal Credit",
+        "type": "COUNT"
+      }
+    ],
+    "geography_groups": [
+      {
+        "id": "str:group:UC_Claims:X_Geography+%28postcode%29",
+        "label": "Geography (postcode)"
+      }
+    ],
+    "time_fields": [],
+    "demographic_fields": [],
+    "other_fields": [
+      {
+        "id": "str:field:UC_Claims:F_UC_WEEKS:WEEK_NAME",
+        "label": "Time Period"
+      }
+    ],
+    "geography_details": {
+      "str:group:UC_Claims:X_Geography+%28postcode%29": {
+        "group_label": "Geography (postcode)",
+        "levels": [
+          {
+            "id": "str:field:UC_Claims:V_F_UC_CLAIMS:POSTCODE_DISTRICT",
+            "label": "Postcode Area - District",
+            "potential_level": "Postcode Area - District"
+          }
+        ]
+      }
+    }
+  },
+  "str:database:UC_Households": {
+    "id": "str:database:UC_Households",
+    "label": "Households on Universal Credit",
+    "measures": [
+      {
+        "id": "str:count:UC_Households:V_F_UC_HOUSEHOLDS",
+        "label": "Households on Universal Credit",
+        "type": "COUNT"
+      },
+      {
+        "id": "str:measure:UC_Households:V_F_UC_HOUSEHOLDS:HNTOTAL_PAYMENT_AMOUNT",
+        "label": "Payment Amount",
+        "type": "MEASURE"
+      },
+      {
+        "id": "str:measure:UC_Households:V_F_UC_HOUSEHOLDS:rsrs_deduction",
+        "label": "RSRS reduction",
+        "type": "MEASURE"
+      }
+    ],
+    "geography_groups": [
+      {
+        "id": "str:group:UC_Households:X_Geography+%28residence-based%29",
+        "label": "Geography (residence-based)"
+      },
+      {
+        "id": "str:group:UC_Households:X_Geography+%28Jobcentre+Plus%29",
+        "label": "Geography (Jobcentre Plus)"
+      },
+      {
+        "id": "str:group:UC_Households:X_Geography+%28postcode%29",
+        "label": "Geography (postcode)"
+      }
+    ],
+    "time_fields": [
+      {
+        "id": "str:field:UC_Households:F_UC_HH_DATE:DATE_NAME",
+        "label": "Month"
+      }
+    ],
+    "demographic_fields": [
+      {
+        "id": "str:field:UC_Households:V_F_UC_HOUSEHOLDS:hnfamily_type",
+        "label": "Family Type"
+      }
+    ],
+    "other_fields": [
+      {
+        "id": "str:field:UC_Households:V_F_UC_HOUSEHOLDS:HCPAYMENT",
+        "label": "Payment Indicator"
+      },
+      {
+        "id": "str:field:UC_Households:V_F_UC_HOUSEHOLDS:hnpayment_band",
+        "label": "Monthly Award Amount (bands)"
+      }
+    ],
+    "geography_details": {
+      "str:group:UC_Households:X_Geography+%28residence-based%29": {
+        "group_label": "Geography (residence-based)",
+        "levels": [
+          {
+            "id": "str:field:UC_Households:V_F_UC_HOUSEHOLDS:COA_CODE",
+            "label": "National - Regional - LA - OAs",
+            "potential_level": "National - Regional - LA - OAs"
+          },
+          {
+            "id": "str:field:UC_Households:V_F_UC_HOUSEHOLDS:WARD_CODE",
+            "label": "National - Regional - LA - Ward",
+            "potential_level": "National - Regional - LA - Ward"
+          }
+        ]
+      },
+      "str:group:UC_Households:X_Geography+%28Jobcentre+Plus%29": {
+        "group_label": "Geography (Jobcentre Plus)",
+        "levels": []
+      }
+    }
+  },
+  "str:database:UC_Monthly": {
+    "id": "str:database:UC_Monthly",
+    "label": "People on Universal Credit",
+    "measures": [
+      {
+        "id": "str:count:UC_Monthly:V_F_UC_CASELOAD_FULL",
+        "label": "People on Universal Credit",
+        "type": "COUNT"
+      }
+    ],
+    "geography_groups": [
+      {
+        "id": "str:group:UC_Monthly:X_Geography+%28Jobcentre+Plus%29",
+        "label": "Geography (Jobcentre Plus)"
+      },
+      {
+        "id": "str:group:UC_Monthly:X_Geography+%28residence-based%29",
+        "label": "Geography (residence-based)"
+      },
+      {
+        "id": "str:group:UC_Monthly:X_Geography+%28postcode%29",
+        "label": "Geography (postcode)"
+      }
+    ],
+    "time_fields": [
+      {
+        "id": "str:field:UC_Monthly:F_UC_DATE:DATE_NAME",
+        "label": "Month"
+      }
+    ],
+    "demographic_fields": [
+      {
+        "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:AGE_CODE",
+        "label": "Age (bands and single year)"
+      },
+      {
+        "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:EMPLOYMENT_CODE",
+        "label": "Employment indicator"
+      },
+      {
+        "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:GENDER_CODE",
+        "label": "Gender"
+      }
+    ],
+    "other_fields": [
+      {
+        "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:CCCONDITIONALITY_REGIME",
+        "label": "Conditionality Regime"
+      },
+      {
+        "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:DURATION_BAND_CODE",
+        "label": "Duration"
+      }
+    ],
+    "geography_details": {
+      "str:group:UC_Monthly:X_Geography+%28Jobcentre+Plus%29": {
+        "group_label": "Geography (Jobcentre Plus)",
+        "levels": []
+      },
+      "str:group:UC_Monthly:X_Geography+%28residence-based%29": {
+        "group_label": "Geography (residence-based)",
+        "levels": [
+          {
+            "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE",
+            "label": "National - Regional - LA - OAs",
+            "potential_level": "National - Regional - LA - OAs"
+          },
+          {
+            "id": "str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:WARD_CODE",
+            "label": "National - Regional - LA - Ward",
+            "potential_level": "National - Regional - LA - Ward"
+          }
+        ]
+      }
+    }
+  },
+  "str:database:UC_Starts": {
+    "id": "str:database:UC_Starts",
+    "label": "Starts to Universal Credit",
+    "measures": [
+      {
+        "id": "str:count:UC_Starts:V_F_UC_STARTS",
+        "label": "Starts on Universal Credit",
+        "type": "COUNT"
+      }
+    ],
+    "geography_groups": [
+      {
+        "id": "str:group:UC_Starts:X_Geography+%28Jobcentre+Plus%29",
+        "label": "Geography (Jobcentre Plus)"
+      },
+      {
+        "id": "str:group:UC_Starts:X_Geography+%28postcode%29",
+        "label": "Geography (postcode)"
+      }
+    ],
+    "time_fields": [
+      {
+        "id": "str:field:UC_Starts:F_UC_DATE:DATE_NAME",
+        "label": "Month"
+      }
+    ],
+    "demographic_fields": [
+      {
+        "id": "str:field:UC_Starts:V_F_UC_STARTS:AGE_CODE",
+        "label": "Age (bands and single year)"
+      },
+      {
+        "id": "str:field:UC_Starts:V_F_UC_STARTS:GENDER_CODE",
+        "label": "Gender"
+      }
+    ],
+    "other_fields": [],
+    "geography_details": {
+      "str:group:UC_Starts:X_Geography+%28Jobcentre+Plus%29": {
+        "group_label": "Geography (Jobcentre Plus)",
+        "levels": []
+      },
+      "str:group:UC_Starts:X_Geography+%28postcode%29": {
+        "group_label": "Geography (postcode)",
+        "levels": [
+          {
+            "id": "str:field:UC_Starts:V_F_UC_STARTS:POSTCODE_DISTRICT",
+            "label": "Postcode Area - District",
+            "potential_level": "Postcode Area - District"
+          }
+        ]
+      }
+    }
+  }
+}
